@@ -21490,7 +21490,7 @@ fx:function fx(){},
 Tj(){var s=0,r=A.a3(t.z),q
 var $async$Tj=A.a4(function(a,b){if(a===1)return A.a0(b,r)
 while(true)switch(s){case 0:s=2
-return A.Z($.anS().wg(0,"assets/.env"),$async$Tj)
+return A.Z($.anS().wg(0,"assets/dotenv"),$async$Tj)
 case 2:if($.C==null)A.aqY()
 q=$.C
 q.Qx(B.Gd)
